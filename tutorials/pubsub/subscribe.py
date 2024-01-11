@@ -1,6 +1,7 @@
 from concurrent.futures import TimeoutError
 from google.cloud import pubsub_v1
 
+# REQUIRED
 project_id = "winged-poetry-410913"
 subscription_id = "my-sub"
 

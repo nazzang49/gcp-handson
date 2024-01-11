@@ -1,5 +1,6 @@
 from google.cloud import pubsub_v1
 
+# REQUIRED
 project_id = "winged-poetry-410913"
 topic_id = "my-topic"
 
