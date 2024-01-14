@@ -1,0 +1,1 @@
+[**NOTION WORKLOG**](https://www.notion.so/jay-park/GCP-Tutorials-related-w-BigData-3963ae197e484f98981da6398c271de5?pvs=4)
